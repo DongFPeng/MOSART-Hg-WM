@@ -1,0 +1,6 @@
+[submodule "components/mosart"]
+	path = components/mosart
+	url = git@github.com:DongFPeng/MOSART-Hg.git
+[submodule "components/clm"]
+	path = components/clm
+	url = git@github.com:DongFPeng/CLM-Hg.git
