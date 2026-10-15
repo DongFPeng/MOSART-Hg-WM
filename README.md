@@ -54,7 +54,7 @@ This repository uses Git submodules for the CLM-Hg and MOSART-Hg components.
 Clone the repository together with its submodules:
 
 ```bash
-git clone --recurse-submodules git@github.com:DongFPeng/MOSART-Hg-WM.git
+git clone --recurse-submodules https://github.com/DongFPeng/MOSART-Hg-WM.git
 ```
 
 If the repository has already been cloned without submodules:
